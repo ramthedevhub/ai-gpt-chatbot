@@ -1,0 +1,5 @@
+ai-gpt-chatbot/
+├── app.py                 # Flask backend
+├── templates/
+│   └── index.html         # Simple web form (optional)
+└── requirements.txt       # Python packages
